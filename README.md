@@ -20,4 +20,9 @@ Design Pattern used:
 4. Strategy
 
 
+Setup instructions using command prompt:
+1. Compile all the .java files
+2. Run the GameController.class file
+
+
 Date completed: 24 September 2018
